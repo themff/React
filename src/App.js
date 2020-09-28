@@ -23,7 +23,7 @@ class App extends Component {
               titulo="Slayer"
             />
             <ArtistCard
-              img="https://lh3.googleusercontent.com/proxy/Br5nF0dGdP0CqjlXgj76eSQ3L0Nvh0yOpxS_Ez9zh7s0KouYgKKFWQYZ2wThjsQ6HbvqqI30IzBdRhlOi5lmR532qxMvGBkp3l0IWeCoKW8EohlzqbmSGonvfEL75x4la6up88Euysm7IQ"
+              img="https://i.ebayimg.com/images/g/PQQAAOSwL-9cdEK2/s-l300.jpg"
               titulo="Fear Factory"
             />
           </div>
